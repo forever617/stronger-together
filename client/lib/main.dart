@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:intro_slider/intro_slider.dart';
 import 'pages/home/group.dart';
 import 'pages/home/my.dart';
 import 'pages/home/home.dart';

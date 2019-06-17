@@ -2,7 +2,7 @@
  * @Author: leo 
  * @Date: 2019-06-16 13:16:55 
  * @Last Modified by: leo
- * @Last Modified time: 2019-06-16 13:23:34
+ * @Last Modified time: 2019-06-16 13:43:01
  * 首页
  */
 import 'package:flutter/material.dart';
@@ -24,6 +24,11 @@ class HomeScreen extends StatelessWidget {
             Text(
               '大爷来玩啊',
             ),
+            RaisedButton(
+              child: Text('点我登录'),
+              onPressed: () => {
+              },
+            )
           ],
         ),
       ),
